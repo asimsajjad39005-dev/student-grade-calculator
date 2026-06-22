@@ -128,7 +128,7 @@ Ran 20 tests in 0.004s — OK
 git init
 git add .
 git commit -m "Student Grade Calculator"
-git remote add origin https://github.com/your-username/student-grade-calculator.git
+git remote add origin https://github.com/asimsajjad39005-dev/student-grade-calculator.git
 git push -u origin main
 ```
 
