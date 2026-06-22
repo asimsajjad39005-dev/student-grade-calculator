@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Ali Hassan",
+        "student_id": "S001",
+        "grades": {
+            "Math": 85,
+            "English": 78,
+            "Science": 90,
+            "Computer": 88
+        },
+        "attendance": 95.0
+    },
+    {
+        "name": "Sara Khan",
+        "student_id": "S002",
+        "grades": {
+            "Math": 72,
+            "English": 80,
+            "Science": 68,
+            "Computer": 75
+        },
+        "attendance": 90.0
+    },
+    {
+        "name": "Umar Farooq",
+        "student_id": "S003",
+        "grades": {
+            "Math": 55,
+            "English": 60,
+            "Science": 50,
+            "Computer": 58
+        },
+        "attendance": 82.0
+    },
+    {
+        "name": "Ayesha Malik",
+        "student_id": "S004",
+        "grades": {
+            "Math": 92,
+            "English": 88,
+            "Science": 95,
+            "Computer": 91
+        },
+        "attendance": 98.0
+    },
+    {
+        "name": "Bilal Ahmed",
+        "student_id": "S005",
+        "grades": {
+            "Math": 35,
+            "English": 40,
+            "Science": 30,
+            "Computer": 38
+        },
+        "attendance": 70.0
+    },
+    {
+        "name": "Zara Siddiqui",
+        "student_id": "S006",
+        "grades": {
+            "Math": 65,
+            "English": 70,
+            "Science": 72,
+            "Computer": 68
+        },
+        "attendance": 88.0
+    },
+    {
+        "name": "Hamza Raza",
+        "student_id": "S007",
+        "grades": {
+            "Math": 48,
+            "English": 52,
+            "Science": 45,
+            "Computer": 50
+        },
+        "attendance": 75.0
+    },
+    {
+        "name": "Fatima Noor",
+        "student_id": "S008",
+        "grades": {
+            "Math": 78,
+            "English": 82,
+            "Science": 80,
+            "Computer": 85
+        },
+        "attendance": 93.0
+    },
+    {
+        "name": "Tariq Mehmood",
+        "student_id": "S009",
+        "grades": {
+            "Math": 25,
+            "English": 30,
+            "Science": 28,
+            "Computer": 22
+        },
+        "attendance": 60.0
+    },
+    {
+        "name": "Maryam Javed",
+        "student_id": "S010",
+        "grades": {
+            "Math": 88,
+            "English": 91,
+            "Science": 87,
+            "Computer": 93
+        },
+        "attendance": 97.0
+    },
+    {
+        "name": "Asim",
+        "student_id": "3",
+        "grades": {
+            "Math": 88.0,
+            "English": 88.0,
+            "Science": 88.0,
+            "Computer": 88.0
+        },
+        "attendance": 77.0
+    }
+]
